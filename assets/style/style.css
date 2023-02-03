@@ -1,0 +1,39 @@
+section {
+    width: 400px;
+    height: 50px;
+    background-color: rgb(59, 59, 59);
+    padding: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    margin: auto;
+    margin-top:4em;
+}
+
+button {
+    background-color: aquamarine;
+    border: none;
+    padding: 0.4em 1em;
+    margin-left: 1em;
+}
+
+input {
+    border: none;
+    padding: 0.4em;
+}
+
+h1 {
+    background-color: aquamarine;
+    height: 50px;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    color: black;
+    overflow-x: hidden;
+}
+
+.separator {
+    border-bottom: 1px black solid;
+    margin: 2em 0;
+}
